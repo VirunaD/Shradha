@@ -11,6 +11,7 @@ CurrentThreadConcept cc=new CurrentThreadConcept();
 CurrentThreadConcept cc1=new CurrentThreadConcept();
 cc.start();
 cc1.start();
+System.out.println("Hye");
 	}
 
 }
